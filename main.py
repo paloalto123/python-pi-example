@@ -1,2 +1,6 @@
 #!usr/bin/python
-print ("hi")
+
+
+def main(msg):
+    print(msg)
+main("asasdasd")
